@@ -1,6 +1,7 @@
 # Self-Hosted Infrastructure Project
 
-This project demonstrates a Linux-based self-hosted infrastructure built on Ubuntu Server.
+This project demonstrates a Linux-based self-hosted infrastructure built on Ubuntu Server. 
+It was developed as an university project.
 
 ## Overview
 - Nginx configured as a reverse proxy  
